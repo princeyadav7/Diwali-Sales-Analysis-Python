@@ -1,5 +1,7 @@
 Diwali Sales Analysis
+
 Overview
+
 This project focuses on analyzing and extracting insights from Diwali sales data. 
 By performing data cleaning and visualization, we aim to uncover trends and patterns that can help in understanding the sales performance during the Diwali season.
 
