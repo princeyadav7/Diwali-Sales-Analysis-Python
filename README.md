@@ -6,16 +6,20 @@ This project focuses on analyzing and extracting insights from Diwali sales data
 By performing data cleaning and visualization, we aim to uncover trends and patterns that can help in understanding the sales performance during the Diwali season.
 
 Project Structure
+
 data/: Contains the Diwali sales dataset (e.g., diwali_sales.csv).
 notebooks/: Jupyter notebooks for data analysis and visualization.
 scripts/: Python scripts for data cleaning and analysis.
 README.md: Project overview and instructions.
 
 Requirements
+
 Python 3.x
 Jupyter Notebook (optional, for interactive analysis)
 Required Python libraries: pandas, numpy, matplotlib, seaborn
+
 Installation
+
 Clone this repository to your local machine:
 
 bash
